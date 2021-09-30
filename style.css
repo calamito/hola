@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+}
+
+button {
+    width: 100px;
+    padding: 0 25px;
+    height: 25px;
+}
+
+#button-danger {
+    background-color: brown;
+}
+
+.button-prime {
+    background-color: aquamarine;
+}
